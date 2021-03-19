@@ -11,6 +11,8 @@ Many of the components come from the 37 Sensor Kit V 2.0 by Elegoo. Check out ht
 
 # Download Instructions
 
+<strong> Make sure that for whatever sketch you're using, your wiring matches the corresponding diagram. Having perfect code but incorrect wiring (or vice versa) will lead to something not working. Make sure the pin numbers match, you're using the correct supply voltage, the components are oriented correctly, etc.</strong>
+
 Click the green button that says "Code," then click "Download ZIP" to download a zip file of this repository. Once you unzip the file, you can follow these instructions to make the FYELIC-Examples folder accessible in Arduino. Then, you can load any of the sketches as needed, just like you would with the default Arduino examples and the SIK guide.  
 
 ![download_instructions](https://github.com/chrisswagler/fyelic-arduino/blob/main/FYELIC-Examples-download.png)
