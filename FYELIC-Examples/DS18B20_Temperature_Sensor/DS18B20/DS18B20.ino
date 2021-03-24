@@ -1,9 +1,20 @@
 /******************************************
- *Website: www.elegoo.com
- * 
- *Time:2017.12.12
- *
+  Website: www.elegoo.com
+
+  Time:2017.12.12
+
  ******************************************/
+/*
+   modified 24 March 2021
+   by Chris Swagler
+   purpose: to use the DS18B20 temperature sensor
+
+   Note: the OneWire library is included so that multiple of these sensors could
+         be connected to the same bus, meaning you could theoretically control
+         many of the sensors over a large area. The DallasTemperature libary is a
+         library from the manufacturer that makes obtaing the temp straightforward
+*/
+
 // Include the libraries we need
 #include <OneWire.h>
 #include <DallasTemperature.h>
@@ -14,14 +25,10 @@
 // Setup a oneWire instance to communicate with any OneWire devices (not just Maxim/Dallas temperature ICs)
 OneWire oneWire(ONE_WIRE_BUS);
 
-// Pass our oneWire reference to Dallas Temperature. 
+// Pass our oneWire reference to Dallas Temperature.
 DallasTemperature sensors(&oneWire);
 
-/*
- * The setup function. We only start the sensors here
- */
-void setup(void)
-{
+void setup() {
   // start serial port
   Serial.begin(9600);
   Serial.println("Dallas Temperature IC Control Library Demo");
@@ -30,12 +37,8 @@ void setup(void)
   sensors.begin();
 }
 
-/*
- * Main function, get and show the temperature
- */
-void loop(void)
-{ 
-  // call sensors.requestTemperatures() to issue a global temperature 
+void loop() {
+  // call sensors.requestTemperatures() to issue a global temperature
   // request to all devices on the bus
   Serial.print("Requesting temperatures...");
   sensors.requestTemperatures(); // Send the command to get temperatures
@@ -43,5 +46,5 @@ void loop(void)
   // After we got the temperatures, we can print them here.
   // We use the function ByIndex, and as an example get the temperature from the first sensor only.
   Serial.print("Temperature for the device 1 (index 0) is: ");
-  Serial.println(sensors.getTempCByIndex(0));  
+  Serial.println(sensors.getTempCByIndex(0));
 }
