@@ -1,3 +1,16 @@
+/*
+ * modified 24 March 2021
+ * by Chris Swagler
+ * purpose: to use the HC-SR501 PIR motion sensor to turn an LED on 
+ *          if motion is detected
+ * 
+ * Note: looking at the bottom of the sensor with the pins along the top,
+ *       the pins go GND, output, VCC from left to right. Also, the 
+ *       potentiometers on the bottom can be used to adjust the SENSITIVITY
+ *       for the maximum distance of motion detected, and also the TIME for
+ *       how long the output will remain HIGH after detection
+ */
+
 int ledPin = LED_BUILTIN;                // choose the pin for the LED
 int inputPin = 8;               // choose the input pin (for PIR sensor)
 int pirState = LOW;             // we start, assuming no motion detected
