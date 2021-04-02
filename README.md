@@ -14,16 +14,16 @@ It might be overwhelming the amount of examples in this library. Here's the link
 
 | Component name      | Link |
 | ----------- | ----------- |
-| LED      | [LED](https://github.com/chrisswagler/fyelic-arduino/blob/main/FYELIC-Examples/LED/LED.ino) , [Wiring](https://github.com/chrisswagler/fyelic-arduino/blob/main/FYELIC-WireDiagrams/LED.png)  |
-| Push Button   | [Button](https://github.com/chrisswagler/fyelic-arduino/blob/main/FYELIC-Examples/Button/Button.ino) , [Wiring](https://github.com/chrisswagler/fyelic-arduino/blob/main/FYELIC-WireDiagrams/Button.png)      |
-| Potentiometer   | [Potentiometer](https://github.com/chrisswagler/fyelic-arduino/blob/main/FYELIC-Examples/Potentiometer/Potentiometer.ino) , [Wiring](https://github.com/chrisswagler/fyelic-arduino/blob/main/FYELIC-WireDiagrams/Potentiometer.png)       |
-| LCD Display   | [LCDDisplay](https://github.com/chrisswagler/fyelic-arduino/blob/main/FYELIC-Examples/LCDDisplay/LCDDisplay.ino) , [Wiring](https://github.com/chrisswagler/fyelic-arduino/blob/main/FYELIC-WireDiagrams/LCDDisplay.png)       |
-| Ultrasonic Distance Sensor   | [DistanceSensor](https://github.com/chrisswagler/fyelic-arduino/blob/main/FYELIC-Examples/DistanceSensor/DistanceSensor.ino) , [Wiring](https://github.com/chrisswagler/fyelic-arduino/blob/main/FYELIC-WireDiagrams/DistanceSensor.png)  |
-| Piezo buzzer  | [Buzzer](https://github.com/chrisswagler/fyelic-arduino/blob/main/FYELIC-Examples/Buzzer/Buzzer.ino) , [Wiring](https://github.com/chrisswagler/fyelic-arduino/blob/main/FYELIC-WireDiagrams/Buzzer.png)        |
-| Photoresistor   | [Photoresistor](https://github.com/chrisswagler/fyelic-arduino/blob/main/FYELIC-Examples/Photoresistor/Photoresistor.ino) , [Wiring](https://github.com/chrisswagler/fyelic-arduino/blob/main/FYELIC-WireDiagrams/Photoresistor.png)       |
-| Temperature Sensor (TMP36)   | [TemperatureSensor](https://github.com/chrisswagler/fyelic-arduino/blob/main/FYELIC-Examples/TemperatureSensor/TemperatureSensor.ino) , [Wiring](https://github.com/chrisswagler/fyelic-arduino/blob/main/FYELIC-WireDiagrams/TemperatureSensor.png)       |
-| Yellow Gearmotors   | [YellowMotors](https://github.com/chrisswagler/fyelic-arduino/blob/main/FYELIC-Examples/YellowMotors/YellowMotors.ino) , [Wiring](https://github.com/chrisswagler/fyelic-arduino/blob/main/FYELIC-WireDiagrams/YellowMotors.png)       |
-| Servo Motor   | [180Servo](https://github.com/chrisswagler/fyelic-arduino/blob/main/FYELIC-Examples/180Servo/180Servo.ino) , [Wiring](https://github.com/chrisswagler/fyelic-arduino/blob/main/FYELIC-WireDiagrams/180Servo.png)       |
+| LED      | [LED](https://github.com/chrisswagler/fyelic-arduino/blob/main/FYELIC-Examples/LED/LED.ino) , [Wiring](https://github.com/chrisswagler/fyelic-arduino/blob/main/FYELIC-Examples/LED/LED.png)  |
+| Push Button   | [Button](https://github.com/chrisswagler/fyelic-arduino/blob/main/FYELIC-Examples/Button/Button.ino) , [Wiring](https://github.com/chrisswagler/fyelic-arduino/blob/main/FYELIC-Examples/Button/Button.png)      |
+| Potentiometer   | [Potentiometer](https://github.com/chrisswagler/fyelic-arduino/blob/main/FYELIC-Examples/Potentiometer/Potentiometer.ino) , [Wiring](https://github.com/chrisswagler/fyelic-arduino/blob/main/FYELIC-Examples/Potentiometer/Potentiometer.png)       |
+| LCD Display   | [LCDDisplay](https://github.com/chrisswagler/fyelic-arduino/blob/main/FYELIC-Examples/LCDDisplay/LCDDisplay.ino) , [Wiring](https://github.com/chrisswagler/fyelic-arduino/blob/main/FYELIC-Examples/LCDDisplay/LCDDisplay.png)       |
+| Ultrasonic Distance Sensor   | [DistanceSensor](https://github.com/chrisswagler/fyelic-arduino/blob/main/FYELIC-Examples/DistanceSensor/DistanceSensor.ino) , [Wiring](https://github.com/chrisswagler/fyelic-arduino/blob/main/FYELIC-Examples/DistanceSensor/DistanceSensor.png)  |
+| Piezo buzzer  | [Buzzer](https://github.com/chrisswagler/fyelic-arduino/blob/main/FYELIC-Examples/Buzzer/Buzzer.ino) , [Wiring](https://github.com/chrisswagler/fyelic-arduino/blob/main/FYELIC-Examples/Buzzer/Buzzer.png)        |
+| Photoresistor   | [Photoresistor](https://github.com/chrisswagler/fyelic-arduino/blob/main/FYELIC-Examples/Photoresistor/Photoresistor.ino) , [Wiring](https://github.com/chrisswagler/fyelic-arduino/blob/main/FYELIC-Examples/Photoresistor/Photoresistor.png)       |
+| Temperature Sensor (TMP36)   | [TemperatureSensor](https://github.com/chrisswagler/fyelic-arduino/blob/main/FYELIC-Examples/TemperatureSensor/TemperatureSensor.ino) , [Wiring](https://github.com/chrisswagler/fyelic-arduino/blob/main/FYELIC-Examples/TemperatureSensor/TemperatureSensor.png)       |
+| Yellow Gearmotors   | [YellowMotors](https://github.com/chrisswagler/fyelic-arduino/blob/main/FYELIC-Examples/YellowMotors/YellowMotors.ino) , [Wiring](https://github.com/chrisswagler/fyelic-arduino/blob/main/FYELIC-Examples/YellowMotors/YellowMotors.png)       |
+| Servo Motor   | [180Servo](https://github.com/chrisswagler/fyelic-arduino/blob/main/FYELIC-Examples/180Servo/180Servo.ino) , [Wiring](https://github.com/chrisswagler/fyelic-arduino/blob/main/FYELIC-Examples/180Servo/180Servo.png)       |
 
 # Download Instructions
 
