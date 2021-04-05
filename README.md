@@ -24,6 +24,7 @@ It might be overwhelming the amount of examples in this library. Here's the link
 | Temperature Sensor (TMP36)   | [TemperatureSensor](https://github.com/chrisswagler/fyelic-arduino/blob/main/FYELIC-Examples/TemperatureSensor/TemperatureSensor.ino) , [Wiring](https://github.com/chrisswagler/fyelic-arduino/blob/main/FYELIC-Examples/TemperatureSensor/TemperatureSensor.png)       |
 | Yellow Gearmotors   | [YellowMotors](https://github.com/chrisswagler/fyelic-arduino/blob/main/FYELIC-Examples/YellowMotors/YellowMotors.ino) , [Wiring](https://github.com/chrisswagler/fyelic-arduino/blob/main/FYELIC-Examples/YellowMotors/YellowMotors.png)       |
 | Servo Motor   | [180Servo](https://github.com/chrisswagler/fyelic-arduino/blob/main/FYELIC-Examples/180Servo/180Servo.ino) , [Wiring](https://github.com/chrisswagler/fyelic-arduino/blob/main/FYELIC-Examples/180Servo/180Servo.png)       |
+| Switch   | [Switch](https://github.com/chrisswagler/fyelic-arduino/blob/main/FYELIC-Examples/Switch/Switch.ino) , [Wiring](https://github.com/chrisswagler/fyelic-arduino/blob/main/FYELIC-Examples/Switch/Switch.png)       |
 
 # Download Instructions
 
